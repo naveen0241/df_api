@@ -1,6 +1,0 @@
-{
-    "name": "134",
-    "email": "hdfjksdh@gmail.com",
-    "type": "premium",
-    "status": true
-}
