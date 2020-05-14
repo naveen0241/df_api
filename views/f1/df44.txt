@@ -1,6 +1,1 @@
-{
-    "name": "Naveen",
-    "email": "nkr@gmail.com",
-    "type": "free",
-    "status": true
-}
+[object Object]
